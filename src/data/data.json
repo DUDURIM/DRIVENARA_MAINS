@@ -1,0 +1,147 @@
+{
+  "Header": {
+    "title": "Let's go for a drive",
+    "paragraph": "직선도로를 마음껏 달려보세요 단! 규정속도는 지켜주시는 센스!"
+  },
+  "About": {
+    "paragraph": "나만의 드라이브 장소를 검색하고 즐겨찾기 해보세요! 실시간으로 업데이트 되는 카카오 지도 서비스를 이용하여 전국 어느곳이든 무료로 검색이 가능합니다.",
+    "Why": [
+      "임진각",
+      "마장호수",
+      "파주출판단지휴게소",
+      "시화나래휴게소"
+    ],
+    "Why2": [
+      "애버랜드",
+      "영종도 BMW 드라이빙센터",
+      "을왕리 해수욕장",
+      "올림픽공원"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "가을 와인딩",
+      "largeImage": "img/portfolio/도로1_large.jpg",
+      "smallImage": "img/portfolio/도로1_small.jpg"
+    },
+    {
+      "title": "직선주로!",
+      "largeImage": "img/portfolio/도로2_large.jpg",
+      "smallImage": "img/portfolio/도로2_small.jpg"
+    },
+    {
+      "title": "새로 개통한 도로",
+      "largeImage": "img/portfolio/도로3_large.jpg",
+      "smallImage": "img/portfolio/도로3_small.jpg"
+    },
+    {
+      "title": "일방통행",
+      "largeImage": "img/portfolio/도로4_large.jpg",
+      "smallImage": "img/portfolio/도로4_small.jpg"
+    },
+    {
+      "title": "미끄러운 도로",
+      "largeImage": "img/portfolio/도로5_large.jpg",
+      "smallImage": "img/portfolio/도로5_small.jpg"
+    },
+    {
+      "title": "제주도 여행",
+      "largeImage": "img/portfolio/도로6_large.jpg",
+      "smallImage": "img/portfolio/도로6_small.jpg"
+    },
+    {
+      "title": "농사느낌도로",
+      "largeImage": "img/portfolio/도로7_large.jpg",
+      "smallImage": "img/portfolio/도로7_small.jpg"
+    },
+    {
+      "title": "와인딩",
+      "largeImage": "img/portfolio/도로8_large.jpg",
+      "smallImage": "img/portfolio/도로8_small.jpg"
+    },
+    {
+      "title": "눈길주행",
+      "largeImage": "img/portfolio/도로9_large.jpg",
+      "smallImage": "img/portfolio/도로9_small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-money",
+      "name": "환율조회",
+      "text": "해외에서 드라이브를 원하시는 고객님들을 위해 미리 환율을 조회할수 있는 서비스를 업데이트 준비 중입니다."
+    },
+    {
+      "icon": "fa fa-car",
+      "name": "차량 렌트",
+      "text": "드라이브는 하고 싶으나 차량이 없는 고객님들의 요청으로 렌트카 차량예약 서비스를 업데이트 준비 중입니다."
+    },
+    {
+      "icon": "fa fa-road",
+      "name": "서킷 정보",
+      "text": "답답한 시내도로에서 벗어나 고속으로 서킷을 주행하고 싶은 고객님들의 요청으로 서킷 정보 서비스를 업데이트 준비 중 입니다."
+    },
+    {
+      "icon": "fa fa-video-camera",
+      "name": "과속카메라 조회",
+      "text": "아차! 하는 순간에 기분좋았던 드라이브를 망쳐버리는 과속카메라의 위치를 미리 알수있는 서비스를 업데이트 준비 중 입니다."
+    },
+    {
+      "icon": "fa fa-paragraph",
+      "name": "주차정보",
+      "text": "드라이브 할때마다 주차때문에 스트레스를 받는다는 고객님의 요청으로 주차정보를 미리 검색할수 있는 서비스를 업데이트 준비 중 입니다."
+    },
+    {
+      "icon": "fa fa-comments",
+      "name": "채팅",
+      "text": "혼자만 알고있는 좋은 드라이브 장소를 공유할 수 있도록 채팅서비스를 업데이트 준비 중 입니다."
+    }
+  ],
+  "Testimonials": [
+
+    {
+      "img": "img/인재채용.jpg",
+      "text": "글로벌 혁신기업으로",
+      "text2": "도약하는 DRIVE NARA와",
+      "text3": "함께 할 글로벌 인재를 모십니다."
+    }
+ 
+  ],
+  "Team": [
+    {
+      "img": "img/team/사람모양아이콘.png",
+      "name": "Mr.Gu",
+      "job": "개발자"
+    }
+  ],
+  "Contact": {
+    "address": "1432, Jungang-ro, Ilsanseo-gu, Goyang-si, Gyeonggi-do, Republic of Korea ",
+    "phone": "+82 123 456 7890",
+    "email": "0000@naver.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-search",
+      "title": "장소 검색",
+      "text": "Drive Nara에서는 원하는 장소를 무료로 검색할 수 있습니다."
+    },
+    {
+      "icon": "fa fa-map-marker",
+      "title": "정확한 마킹",
+      "text": "카카오 지도서비스를 이용하여 검색한 장소의 정확한 위치를 마커로 표시해 줍니다."
+    },
+    {
+      "icon": "fa fa-globe",
+      "title": "깔끔한 지도",
+      "text": "국내 최고의 카카오 지도서비스를 이용하여 깔끔하고 보기편한 지도서비스를 제공합니다."
+    },
+    {
+      "icon": "fa fa-users",
+      "title": "커뮤니티",
+      "text": "준비중입니다."
+    }
+  ]
+}
