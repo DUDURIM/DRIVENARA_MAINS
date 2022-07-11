@@ -53,6 +53,7 @@ const MapContainer = ({ searchPlace }) => {
             // 마커에 클릭이벤트를 등록합니다
             kakao.maps.event.addListener(marker, 'click', function () {
                 // 마커를 클릭하면 장소명이 인포윈도우에 표출됩니다
+                // eslint-disable-next-line
                 infowindow.setContent('<div style="padding:10px 10px 30px 10px;font-size:10px;">' + place.place_name + '<br/>' + place.road_address_name + '<br/>' + "전화번호:" + place.phone + '</div>',)
                 infowindow.open(map, marker)
             })

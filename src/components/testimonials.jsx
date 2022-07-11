@@ -12,7 +12,7 @@ export const Testimonials = (props) => {
                   <div className='testimonial'>
                     <div className='testimonial-image'>
                       {' '}
-                      <img src={d.img} alt='' />{' '}
+                      <img src={process.env.PUBLIC_URL + '/img/인재채용.jpg'} alt='' />{' '}
                     </div>
                     <div className='testimonial-content'>
                       <p className="jobp">{d.text}</p>

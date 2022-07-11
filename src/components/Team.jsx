@@ -1,3 +1,5 @@
+
+
 export const Team = (props) => {
   return (
     <div id='team' className='text-center'>
@@ -14,7 +16,7 @@ export const Team = (props) => {
                 <div key={`${d.name}-${i}`} className='col-md-3 col-sm-6 team'>
                   <div className='thumbnail'>
                     {' '}
-                    <img src={d.img} alt='...' className='team-img' />
+                    <img src={process.env.PUBLIC_URL + '/img/team/사람모양아이콘.png'} alt='...' className='team-img' />
                     <div className='caption'>
                       <h4>{d.name}</h4>
                       <p>{d.job}</p>
