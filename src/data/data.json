@@ -21,48 +21,48 @@
   "Gallery": [
     {
       "title": "가을 와인딩",
-      "largeImage": "img/portfolio/도로1_large.jpg",
-      "smallImage": "img/portfolio/도로1_small.jpg"
+      "largeImage": "/img/portfolio/도로1_large.jpg",
+      "smallImage": "/img/portfolio/도로1_small.jpg"
     },
     {
       "title": "직선주로!",
-      "largeImage": "img/portfolio/도로2_large.jpg",
-      "smallImage": "img/portfolio/도로2_small.jpg"
+      "largeImage": "/img/portfolio/도로2_large.jpg",
+      "smallImage": "/img/portfolio/도로2_small.jpg"
     },
     {
       "title": "새로 개통한 도로",
-      "largeImage": "img/portfolio/도로3_large.jpg",
-      "smallImage": "img/portfolio/도로3_small.jpg"
+      "largeImage": "/img/portfolio/도로3_large.jpg",
+      "smallImage": "/img/portfolio/도로3_small.jpg"
     },
     {
       "title": "일방통행",
-      "largeImage": "img/portfolio/도로4_large.jpg",
-      "smallImage": "img/portfolio/도로4_small.jpg"
+      "largeImage": "/img/portfolio/도로4_large.jpg",
+      "smallImage": "/img/portfolio/도로4_small.jpg"
     },
     {
       "title": "미끄러운 도로",
-      "largeImage": "img/portfolio/도로5_large.jpg",
-      "smallImage": "img/portfolio/도로5_small.jpg"
+      "largeImage": "/img/portfolio/도로5_large.jpg",
+      "smallImage": "/img/portfolio/도로5_small.jpg"
     },
     {
       "title": "제주도 여행",
-      "largeImage": "img/portfolio/도로6_large.jpg",
-      "smallImage": "img/portfolio/도로6_small.jpg"
+      "largeImage": "/img/portfolio/도로6_large.jpg",
+      "smallImage": "/img/portfolio/도로6_small.jpg"
     },
     {
       "title": "농사느낌도로",
-      "largeImage": "img/portfolio/도로7_large.jpg",
-      "smallImage": "img/portfolio/도로7_small.jpg"
+      "largeImage": "/img/portfolio/도로7_large.jpg",
+      "smallImage": "/img/portfolio/도로7_small.jpg"
     },
     {
       "title": "와인딩",
-      "largeImage": "img/portfolio/도로8_large.jpg",
-      "smallImage": "img/portfolio/도로8_small.jpg"
+      "largeImage": "/img/portfolio/도로8_large.jpg",
+      "smallImage": "/img/portfolio/도로8_small.jpg"
     },
     {
       "title": "눈길주행",
-      "largeImage": "img/portfolio/도로9_large.jpg",
-      "smallImage": "img/portfolio/도로9_small.jpg"
+      "largeImage": "/img/portfolio/도로9_large.jpg",
+      "smallImage": "/img/portfolio/도로9_small.jpg"
     }
   ],
   "Services": [
